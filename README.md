@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @echamale-2022
 - 👀 I’m interested in - Estoy interesado en conocer nuevos lenguajes de programación
-- 🌱 I’m currently learning - Aprendiendo a programar en Java SE
+- 🌱 I’m currently learning - Aprendiendo a programar en Java SE y EE
 - 📫 How to reach me - echamale018@gmail.com 
 
 <!---
